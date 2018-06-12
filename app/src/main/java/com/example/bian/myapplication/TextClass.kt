@@ -6,4 +6,7 @@ class TextClass(){
     fun test():Unit{
         print("hah")
     }
+    fun hehe(){
+        print("branch 2 de fun")
+    }
 }
