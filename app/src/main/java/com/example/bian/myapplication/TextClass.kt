@@ -6,4 +6,8 @@ class TextClass(){
     fun test():Unit{
         print("hah")
     }
+
+    fun haha(){
+        print("this is activity_num1")
+    }
 }
